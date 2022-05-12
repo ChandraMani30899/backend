@@ -1,5 +1,0 @@
-package com.cognizant.transactionservice.exception;
-
-public class InvalidAmountExceptionTest {
-
-}
